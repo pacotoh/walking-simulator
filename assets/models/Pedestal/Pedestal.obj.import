@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c1ldxdvsp4ywh"
+path="res://.godot/imported/Pedestal.obj-4dd8e344892fde591d1a8c3085be6392.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Pedestal.obj-4dd8e344892fde591d1a8c3085be6392.mesh"]
+
+source_file="res://assets/models/Pedestal/Pedestal.obj"
+dest_files=["res://.godot/imported/Pedestal.obj-4dd8e344892fde591d1a8c3085be6392.mesh", "res://.godot/imported/Pedestal.obj-4dd8e344892fde591d1a8c3085be6392.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
